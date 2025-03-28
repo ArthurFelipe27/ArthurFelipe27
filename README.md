@@ -1,11 +1,8 @@
 ## Olá eu sou o Arthur Felipe 👋
 💻 Desenvolvedor iniciante apaixonado por Java e outras linguagens que mexem no emocional 😆.
+Sempre em busca de aprendizado e desafios no mundo da programação. No tempo livre, gosto de jogar e explorar novas tecnologias.
 
-🚀 Sempre em busca de aprendizado e desafios no mundo da programação.
-
-🎮 No tempo livre, gosto de jogar e explorar novas tecnologias.
-
-📌 Vamos conectar? Sinta-se à vontade para explorar meus projetos! 😃
+Vamos conectar? Sinta-se à vontade para explorar meus projetos! 😃
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ArthurFelipe27&show_icons=true&theme=swift" />
