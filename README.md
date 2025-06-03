@@ -66,8 +66,6 @@ Sinta-se à vontade para explorar meus projetos! 😃
 
 ---
 
-## 🐍 Snake Contribution Graph
-
 ![snake gif](https://github.com/ArthurFelipe27/ArthurFelipe27/blob/output/github-contribution-grid-snake.svg)
 
 ---
