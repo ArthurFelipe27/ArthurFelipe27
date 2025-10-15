@@ -6,6 +6,9 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions: # <--- NOVA SEÇÃO ADICIONADA PARA A CORREÇÃO
+  contents: write # Permite que a Action faça o push para o branch 'output'
+
 jobs:
   build:
     runs-on: ubuntu-latest
