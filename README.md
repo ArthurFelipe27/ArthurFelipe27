@@ -60,8 +60,8 @@ Sinta-se à vontade para explorar meus projetos! 😃
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurFelipe27&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurFelipe27&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurFelipe27&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurFelipe27&layout=compact&langs_count=8&theme=radical&cache_seconds=1800"/>
 </div>
 
 ---
