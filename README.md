@@ -60,23 +60,29 @@ Sinta-se à vontade para explorar meus projetos! 😃
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-<!-- Streak Stats (Alternativa robusta que mostra dias seguidos codando) -->
-<a href="https://www.google.com/search?q=https://github.com/ArthurFelipe27">
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DArthurFelipe27%26theme%3Dradical%26hide_border%3Dfalse" alt="ArthurFelipe27 Streak"/>
-</a>
+  <!-- Streak Stats -->
+  <a href="https://github.com/ArthurFelipe27">
+    <img height="180em" 
+         src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurFelipe27&theme=radical&hide_border=false" 
+         alt="ArthurFelipe27 Streak"/>
+  </a>
 
-<!-- Stats Gerais (Removido count_private para evitar erros) -->
-
-<a href="https://www.google.com/search?q=https://github.com/ArthurFelipe27">
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DArthurFelipe27%26show_icons%3Dtrue%26theme%3Dradical%26include_all_commits%3Dtrue%26count_private%3Dfalse" alt="ArthurFelipe27 Stats"/>
-</a>
+  <!-- GitHub Stats -->
+  <a href="https://github.com/ArthurFelipe27">
+    <img height="180em" 
+         src="https://github-readme-stats.vercel.app/api?username=ArthurFelipe27&show_icons=true&theme=radical&include_all_commits=true&count_private=false" 
+         alt="ArthurFelipe27 Stats"/>
+  </a>
 </div>
-
 
 <div align="center">
-<!-- Top Langs -->
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DArthurFelipe27%26layout%3Dcompact%26langs_count%3D8%26theme%3Dradical" alt="Top Langs"/>
+  <!-- Top Languages -->
+  <img height="180em" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurFelipe27&layout=compact&langs_count=8&theme=radical" 
+       alt="Top Langs"/>
 </div>
+
+
 
 ---
 
