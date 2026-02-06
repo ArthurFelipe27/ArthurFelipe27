@@ -1,97 +1,106 @@
-# 👋 Seja muito bem-vindo(a) ao meu GitHub!
+# 👋 Olá, seja muito bem-vindo(a) ao meu GitHub!
 
-Sou o **Arthur Felipe**, um desenvolvedor iniciante movido pela paixão por **Java** e pela constante busca de evoluir e aprender. 🚀  
-Aqui você encontrará meus projetos, experimentos e aprendizados ao longo da minha jornada como programador.  
+Sou o **Arthur Felipe**, desenvolvedor iniciante apaixonado por **Java**, tecnologia e aprendizado contínuo. 🚀  
+Aqui você encontrará meus **projetos, estudos e experimentos**, refletindo minha evolução como programador.
+
+🌐 **Minha land-page:**  
+👉 https://arthurfelipe-2ac29.web.app/
 
 ---
 
-## 💻 Tecnologias que uso
+## 🧠 Sobre mim
 
-### Linguagens
-<div style="display: inline_block">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+- 🎯 Foco principal em **Java** e **backend**
+- 💻 Experiência com aplicações web e banco de dados
+- 🌱 Sempre evoluindo em lógica, boas práticas e arquitetura
+- 🔥 Constância, curiosidade e vontade de aprender definem meu perfil
+
+---
+
+## 💻 Tecnologias & Ferramentas
+
+### 🚀 Linguagens
+<div style="display: inline_block"><br>
+  <img align="center" alt="Java" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="JavaScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="MySQL" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
 ---
 
-### IDEs e Ferramentas
-<div style="display: inline_block">
-  <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Eclipse" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="IntelliJ" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
-  <img align="center" alt="NetBeans" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg">
+### 🧩 Frameworks
+<div style="display: inline_block"><br>
+  <img align="center" alt="Spring Boot" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Flask" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
 </div>
 
 ---
 
-## 🗺️ Meu Roadmap de Aprendizado
+### 🛠️ IDEs & Ferramentas
+<div style="display: inline_block"><br>
+  <img align="center" alt="IntelliJ" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
+  <img align="center" alt="Eclipse" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg">
+  <img align="center" alt="Android Studio" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
+  <img align="center" alt="VSCode" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+</div>
 
-Atualmente estou focado em:
-
-✅ **Aprimorar habilidades em Java** — explorando frameworks como Spring.  
-✅ **Aprofundar conhecimento em JavaScript** — incluindo ES6+ e frameworks como React.  
-✅ **Praticar lógica de programação** com **Python**.  
-✅ **Dominar o desenvolvimento web** com **HTML** e **CSS**, buscando criar layouts mais responsivos.  
-✅ **Aprimorar o uso de bancos de dados** — principalmente **MySQL**.  
-✅ **Explorar boas práticas de versionamento** com **Git** e **GitHub**.  
-
-🚀 **Próximos passos**:
-
-🔸 Aprender sobre APIs RESTful  
-🔸 Iniciar estudos em DevOps (Docker, CI/CD)  
-🔸 Melhorar a estruturação de projetos com Design Patterns  
+⭐ **VS Code é minha IDE favorita**
 
 ---
 
-## 🌐 Vamos conectar?
+## 🗺️ Roadmap de Aprendizado
 
-Sinta-se à vontade para explorar meus projetos! 😃
+### 📌 Em constante evolução:
+✅ Java avançado  
+✅ Spring Boot  
+✅ JavaScript moderno (ES6+)  
+✅ APIs REST  
+✅ Banco de dados relacionais e NoSQL  
+✅ Git & GitHub  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-felipe-77031b218)  
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:arthurfelipedasilvamatosdev@gmail.com)  
+### 🚀 Próximos passos:
+🔸 Docker e CI/CD  
+🔸 Arquitetura de software  
+🔸 Design Patterns  
+🔸 Testes automatizados  
+
+---
+
+## 🌐 Vamos nos conectar?
+
+Fique à vontade para explorar meus projetos 😄  
+Aberto a colaborações, aprendizado e troca de ideias!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-felipe-77031b218)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:arthurfelipedasilvamatosdev@gmail.com)
 
 ---
 
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <!-- Streak Stats -->
-  <a href="https://github.com/ArthurFelipe27">
-    <img height="180em" 
-         src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurFelipe27&theme=radical&hide_border=false" 
-         alt="ArthurFelipe27 Streak"/>
-  </a>
-
-  <!-- GitHub Stats -->
-  <a href="https://github.com/ArthurFelipe27">
-    <img height="180em" 
-         src="https://github-readme-stats.vercel.app/api?username=ArthurFelipe27&show_icons=true&theme=radical&include_all_commits=true&count_private=false" 
-         alt="ArthurFelipe27 Stats"/>
-  </a>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ArthurFelipe27&show_icons=true&theme=radical&hide_border=false" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=ArthurFelipe27&theme=radical&hide_border=false" />
 </div>
 
 <div align="center">
-  <!-- Top Languages -->
-  <img height="180em" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurFelipe27&layout=compact&langs_count=8&theme=radical" 
-       alt="Top Langs"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurFelipe27&layout=compact&langs_count=8&theme=radical" />
 </div>
 
+---
 
+## 🐍 Minhas contribuições em movimento
+
+![snake gif](https://raw.githubusercontent.com/ArthurFelipe27/ArthurFelipe27/output/github-contribution-grid-snake.svg)
 
 ---
 
-![snake gif](https://github.com/ArthurFelipe27/ArthurFelipe27/blob/output/github-contribution-grid-snake.svg)
+<img align="right" height="160" src="https://media.giphy.com/media/lGFQHKtkq6Wkg/giphy.gif" />
 
 ---
 
-<img height="150" align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWVnZ2Z4bWx2OXhzam1hY2Fqa3hhb2d5a3JqajB0Y2o2c283aW45cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l9JQYgbbNxbig/giphy.gif" />
-
----
-
-⭐️ **Obrigado por visitar meu perfil!**
+⭐️ **Obrigado por visitar meu perfil!**  
+_Codar, errar, aprender e evoluir — todos os dias._ 🚀
